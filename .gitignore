@@ -396,3 +396,14 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+backend/views/layouts/footer.ejs
+backend/views/layouts/header.ejs
+backend/views/register.ejs
+backend/views/login.ejs
+backend/views/dashboard.ejs
+backend/public/js/bootstrap.min.js
+backend/public/js/jquery.min.js
+backend/public/js/main.js
+backend/public/js/popper.js
+backend/public/css/bootstrap.min.css
+backend/public/css/style.css
