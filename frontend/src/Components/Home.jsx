@@ -27,7 +27,7 @@ const check=async()=>{
 return(
     <>
     <Sidebar/>
-<h1>Home</h1>
+<h1>This is Home Component</h1>
 </>
 )
 }
